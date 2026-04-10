@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/AndyLeal00/apizoologico#readme",
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.1",
     "express": "^5.2.1",
+    "mongoose": "^9.4.1",
     "nodemon": "^3.1.14"
   }
 }

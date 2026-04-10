@@ -17,6 +17,7 @@ mongoose
 
 // Rutas
 app.use("/api/animals", require("./routes/animalRoutes"));
+app.use("/api", require("./routes/authentication"));
 
 // Ruta base
 app.get("/", (req, res) => {

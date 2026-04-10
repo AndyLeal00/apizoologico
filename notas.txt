@@ -3,3 +3,5 @@ npm init --yes
 npm install express --save
 
  npm i nodemon --save
+
+ npm i bcrypt --save
